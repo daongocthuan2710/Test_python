@@ -15,3 +15,8 @@ pip install -r requirements.txt
 
 Usage:
 Run the Flask app: python app.py
+
+Unit test:
+
+- cd my_flask_project/
+- pytest
