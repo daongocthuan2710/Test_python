@@ -1,0 +1,442 @@
+2025-02-28 09:59:21,169 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 09:59:21,180 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 09:59:33,545 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 09:59:33,714 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 09:59:33,718 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 09:59:39,458 [WARNING] app: No file part in the request.
+2025-02-28 09:59:39,458 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 09:59:39] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-02-28 09:59:55,403 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 09:59:55,586 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 09:59:55,591 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:00:00,759 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:00:00,904 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:00:00,909 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:00:01,893 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:00:01] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-02-28 10:00:24,566 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:00:24,764 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:00:24,769 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:00:29,940 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:00:30,121 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:00:30,125 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:00:34,285 [DEBUG] app: Request Headers: User-Agent: PostmanRuntime/7.43.0
+Accept: */*
+Postman-Token: 7d4db8c8-48bd-4e6f-9f0a-ccb8e1ec7ce7
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=--------------------------473151631707636214278800
+Content-Length: 31299
+
+
+2025-02-28 10:00:34,286 [DEBUG] app: Request Form Data: ImmutableMultiDict([])
+2025-02-28 10:00:34,286 [DEBUG] app: Request Files: ImmutableMultiDict([('', <FileStorage: 'data.csv' ('text/csv')>)])
+2025-02-28 10:00:34,286 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:00:34] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-02-28 10:00:48,671 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:00:48,843 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:00:48,848 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:00:54,032 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:00:54,174 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:00:54,178 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:00:59,258 [DEBUG] app: Request Headers: User-Agent: PostmanRuntime/7.43.0
+Accept: */*
+Postman-Token: 506ff2dd-0d9b-4115-8e5e-f9c3250ba119
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=--------------------------308355482474988064379333
+Content-Length: 31299
+
+
+2025-02-28 10:00:59,259 [DEBUG] app: Request Form Data: ImmutableMultiDict([])
+2025-02-28 10:00:59,259 [DEBUG] app: Request Files: ImmutableMultiDict([('', <FileStorage: 'data.csv' ('text/csv')>)])
+2025-02-28 10:00:59,259 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:00:59] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-02-28 10:01:16,829 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:01:17,007 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:01:17,012 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:01:28,359 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:01:28,534 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:01:28,539 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:01:30,607 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:01:30,754 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:01:30,761 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:01:40,570 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:01:40] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-02-28 10:02:52,371 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:02:52,561 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:02:52,566 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:02:57,666 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:02:57] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-02-28 10:06:56,037 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:06:56] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-02-28 10:07:48,266 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:07:48,449 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:07:48,454 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:07:57,485 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-28 10:07:57,486 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2025-02-28 10:07:57,486 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:07:57,584 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:07:57,593 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:08:28,728 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:08:28] "GET / HTTP/1.1" 200 -
+2025-02-28 10:08:36,014 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:08:36] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-02-28 10:09:58,105 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:09:58] "POST /upload HTTP/1.1" 200 -
+2025-02-28 10:11:05,242 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:11:05,273 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:11:05,425 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:11:05,431 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:15:36,628 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:15:36,652 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:15:36,813 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:15:36,818 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:15:53,332 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:15:53,357 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:20:16,823 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-28 10:20:16,824 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2025-02-28 10:20:16,824 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:20:17,130 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:20:17,137 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:20:21,935 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:20:21] "GET / HTTP/1.1" 200 -
+2025-02-28 10:20:24,891 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:20:24] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA HTTP/1.1[0m" 308 -
+2025-02-28 10:20:24,917 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:20:24] "[35m[1mGET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA HTTP/1.1[0m" 500 -
+2025-02-28 10:21:03,695 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:21:03,754 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:21:04,153 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:21:04,159 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:21:14,516 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:21:14,580 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:21:14,958 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:21:14,968 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:21:16,048 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:21:16,101 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:21:16,352 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:21:16,356 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:26:09,774 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-28 10:26:09,775 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2025-02-28 10:26:09,775 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:26:10,107 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:26:10,112 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:26:58,881 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:26:58] "POST /upload HTTP/1.1" 200 -
+2025-02-28 10:27:02,371 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:27:02] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA HTTP/1.1[0m" 308 -
+2025-02-28 10:27:02,381 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:27:02] "[35m[1mGET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA HTTP/1.1[0m" 500 -
+2025-02-28 10:28:54,534 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:28:54,630 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:28:54,990 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:28:54,995 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:34:00,280 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:34:00,328 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:35:38,059 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-28 10:35:38,060 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2025-02-28 10:35:38,060 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:35:38,308 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:35:38,313 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:35:47,960 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:35:47] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA HTTP/1.1[0m" 308 -
+2025-02-28 10:35:47,972 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:35:47] "[35m[1mGET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA HTTP/1.1[0m" 500 -
+2025-02-28 10:35:58,756 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:35:58] "POST /upload HTTP/1.1" 200 -
+2025-02-28 10:36:02,753 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:36:02] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA HTTP/1.1[0m" 308 -
+2025-02-28 10:36:02,761 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:36:02] "[35m[1mGET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA HTTP/1.1[0m" 500 -
+2025-02-28 10:37:40,326 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:37:40,382 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:37:40,760 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:37:40,766 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:37:51,102 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:37:51,166 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:37:51,573 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:37:51,623 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:38:00,928 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:38:01,012 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:38:01,395 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:38:01,400 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:38:07,733 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:38:07,835 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:38:08,251 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:38:08,257 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:38:38,138 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:38:38,191 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:38:38,590 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:38:38,596 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:38:41,780 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:38:41,846 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:38:42,118 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:38:42,126 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:39:18,822 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:39:18] "POST /upload HTTP/1.1" 200 -
+2025-02-28 10:39:20,581 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:39:20] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA HTTP/1.1[0m" 308 -
+2025-02-28 10:39:20,598 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:39:20] "[35m[1mGET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA HTTP/1.1[0m" 500 -
+2025-02-28 10:39:40,164 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:39:40,243 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:39:40,664 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:39:40,670 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:39:48,949 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:39:48,996 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:39:49,378 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:39:49,383 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:40:15,295 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:40:15,362 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:40:15,752 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:40:15,757 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:40:18,860 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:40:18,926 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:40:19,210 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:40:19,215 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:40:32,650 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:40:32,715 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:40:33,088 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:40:33,094 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:40:40,340 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:40:40,399 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:40:40,812 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:40:40,817 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:40:45,989 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:40:46,035 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:40:46,363 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:40:46,370 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:40:52,617 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:40:52,669 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:40:53,052 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:40:53,058 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:41:11,693 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:41:11,752 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:41:12,153 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:41:12,158 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:41:15,300 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:41:15] "POST /upload HTTP/1.1" 200 -
+2025-02-28 10:41:22,771 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:41:22] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA HTTP/1.1[0m" 308 -
+2025-02-28 10:41:22,781 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:41:22] "GET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA HTTP/1.1" 200 -
+2025-02-28 10:41:44,743 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:41:44] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USAC HTTP/1.1[0m" 308 -
+2025-02-28 10:41:44,768 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:41:44] "GET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USAC HTTP/1.1" 200 -
+2025-02-28 10:41:47,158 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:41:47] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA HTTP/1.1[0m" 308 -
+2025-02-28 10:41:47,166 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:41:47] "GET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA HTTP/1.1" 200 -
+2025-02-28 10:42:50,613 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:42:50,676 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:42:51,085 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:42:51,091 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:45:17,953 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:45:18,133 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:45:18,622 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:45:18,628 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:45:29,977 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:45:30,031 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:45:30,407 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:45:30,412 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:45:42,859 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:45:42,910 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:45:43,275 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:45:43,280 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:45:49,514 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:45:49,565 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:45:49,937 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:45:49,942 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:45:56,134 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:45:56,195 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:45:56,586 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:45:56,591 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:46:02,801 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:46:02,858 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:46:03,291 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:46:03,296 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:46:08,486 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:46:08,543 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:46:08,820 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:46:08,825 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:46:16,085 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:46:16,141 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:46:16,471 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:46:16,476 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:46:54,669 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:46:54,719 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:47:12,809 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-28 10:47:12,809 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2025-02-28 10:47:12,810 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:47:13,095 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:47:13,100 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:47:25,283 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:47:25] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA HTTP/1.1[0m" 308 -
+2025-02-28 10:47:25,286 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:47:25] "[31m[1mGET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA HTTP/1.1[0m" 400 -
+2025-02-28 10:47:27,799 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:47:27] "POST /upload HTTP/1.1" 200 -
+2025-02-28 10:47:29,692 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:47:29] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA HTTP/1.1[0m" 308 -
+2025-02-28 10:47:29,702 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:47:29] "GET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA HTTP/1.1" 200 -
+2025-02-28 10:47:49,828 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:47:49] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=2 HTTP/1.1[0m" 308 -
+2025-02-28 10:47:49,833 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:47:49] "GET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=2 HTTP/1.1" 200 -
+2025-02-28 10:47:53,266 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:47:53] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=0 HTTP/1.1[0m" 308 -
+2025-02-28 10:47:53,272 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:47:53] "GET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=0 HTTP/1.1" 200 -
+2025-02-28 10:47:57,014 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:47:57] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3 HTTP/1.1[0m" 308 -
+2025-02-28 10:47:57,021 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:47:57] "GET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3 HTTP/1.1" 200 -
+2025-02-28 10:48:04,920 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:48:04] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 10:48:04,926 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:48:04] "GET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1" 200 -
+2025-02-28 10:49:03,087 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:49:03,174 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:49:03,589 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:49:03,597 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:49:33,579 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:49:33,636 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:49:34,029 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:49:34,035 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:49:37,584 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:49:37] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 10:49:37,586 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:49:37] "[31m[1mGET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 400 -
+2025-02-28 10:49:40,038 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:49:40] "POST /upload HTTP/1.1" 200 -
+2025-02-28 10:49:41,820 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:49:41] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 10:49:41,830 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:49:41] "GET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1" 200 -
+2025-02-28 10:51:51,685 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:51:51,776 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:55:01,879 [INFO] werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-28 10:55:01,880 [INFO] werkzeug: [33mPress CTRL+C to quit[0m
+2025-02-28 10:55:01,880 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:55:02,131 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:55:02,137 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:55:04,332 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:55:04] "POST /upload HTTP/1.1" 200 -
+2025-02-28 10:55:06,552 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:55:06] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 10:55:06,567 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:55:06] "[35m[1mGET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 500 -
+2025-02-28 10:55:38,387 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:55:38,453 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:55:38,868 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:55:38,877 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:55:39,683 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:55:39] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 10:55:39,687 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:55:39] "[31m[1mGET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 400 -
+2025-02-28 10:55:42,427 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:55:42] "POST /upload HTTP/1.1" 200 -
+2025-02-28 10:55:43,694 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:55:43] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 10:55:43,701 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:55:43] "GET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1" 200 -
+2025-02-28 10:55:58,578 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:55:58,651 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:55:58,988 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:55:58,993 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:57:28,882 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:57:28,967 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:57:29,345 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:57:29,350 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:58:12,497 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:58:12] "POST /upload HTTP/1.1" 200 -
+2025-02-28 10:58:13,828 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:58:13] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 10:58:13,836 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:58:13] "GET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1" 200 -
+2025-02-28 10:58:26,285 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:58:26,356 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:58:26,833 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:58:26,839 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:58:31,314 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:58:31] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 10:58:31,318 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:58:31] "[31m[1mGET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 400 -
+2025-02-28 10:58:33,434 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:58:33] "POST /upload HTTP/1.1" 200 -
+2025-02-28 10:58:34,752 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:58:34] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 10:58:34,766 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:58:34] "[35m[1mGET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 500 -
+2025-02-28 10:58:36,607 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:58:36] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 10:58:36,628 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:58:36] "[35m[1mGET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 500 -
+2025-02-28 10:58:49,614 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:58:49,704 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:58:50,147 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:58:50,152 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:58:54,471 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:58:54] "POST /upload HTTP/1.1" 200 -
+2025-02-28 10:58:55,897 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:58:55] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 10:58:55,910 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:58:55] "[35m[1mGET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 500 -
+2025-02-28 10:59:00,591 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:59:00,640 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:59:01,005 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:59:01,010 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:59:04,141 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:59:04,195 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:59:04,462 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:59:04,467 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:59:05,169 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:59:05] "POST /upload HTTP/1.1" 200 -
+2025-02-28 10:59:06,564 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:59:06] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 10:59:06,571 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:59:06] "GET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1" 200 -
+2025-02-28 10:59:12,795 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:59:12,844 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:59:13,138 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:59:13,143 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:59:14,676 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:59:14] "POST /upload HTTP/1.1" 200 -
+2025-02-28 10:59:16,351 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:59:16] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 10:59:16,366 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:59:16] "[35m[1mGET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 500 -
+2025-02-28 10:59:30,750 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:59:30,806 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:59:31,196 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:59:31,204 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:59:35,388 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 10:59:35,440 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 10:59:35,720 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 10:59:35,725 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 10:59:38,474 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:59:38] "POST /upload HTTP/1.1" 200 -
+2025-02-28 10:59:39,881 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:59:39] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 10:59:39,891 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 10:59:39] "GET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1" 200 -
+2025-02-28 11:00:23,207 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 11:00:23,256 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 11:00:23,644 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 11:00:23,650 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 11:00:24,718 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 11:00:24,784 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 11:00:25,049 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 11:00:25,054 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 11:00:41,642 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 11:00:41,701 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 11:00:42,041 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 11:00:42,047 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 11:00:46,634 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:00:46] "POST /upload HTTP/1.1" 200 -
+2025-02-28 11:00:48,544 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:00:48] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 11:00:48,550 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:00:48] "GET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1" 200 -
+2025-02-28 11:01:18,393 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 11:01:18,449 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 11:01:18,852 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 11:01:18,858 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 11:01:22,719 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:01:22] "POST /upload HTTP/1.1" 200 -
+2025-02-28 11:01:24,195 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:01:24] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 11:01:24,214 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:01:24] "[35m[1mGET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 500 -
+2025-02-28 11:03:29,064 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 11:03:29,140 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 11:03:29,541 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 11:03:29,547 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 11:03:49,228 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 11:03:49,335 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 11:03:49,727 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 11:03:49,732 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 11:03:51,557 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:03:51] "POST /upload HTTP/1.1" 200 -
+2025-02-28 11:03:53,437 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:03:53] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 11:03:53,447 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:03:53] "GET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1" 200 -
+2025-02-28 11:04:28,009 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 11:04:28,065 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 11:04:28,446 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 11:04:28,451 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 11:04:31,621 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:04:31] "POST /upload HTTP/1.1" 200 -
+2025-02-28 11:04:33,196 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:04:33] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 11:04:33,206 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:04:33] "GET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1" 200 -
+2025-02-28 11:04:37,762 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 11:04:37,824 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 11:04:38,211 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 11:04:38,217 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 11:04:40,120 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:04:40] "POST /upload HTTP/1.1" 200 -
+2025-02-28 11:04:41,432 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:04:41] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 11:04:41,445 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:04:41] "[35m[1mGET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 500 -
+2025-02-28 11:06:04,088 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 11:06:04,151 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 11:06:04,550 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 11:06:04,555 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 11:06:05,615 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 11:06:05,666 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 11:06:05,994 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 11:06:05,999 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 11:06:10,190 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:06:10] "POST /upload HTTP/1.1" 200 -
+2025-02-28 11:06:11,522 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:06:11] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 11:06:11,530 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:06:11] "GET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1" 200 -
+2025-02-28 11:06:50,635 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 11:06:50,699 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 11:06:51,070 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 11:06:51,076 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 11:06:53,173 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 11:06:53,228 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 11:06:53,518 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 11:06:53,522 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 11:06:55,603 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 11:06:55,655 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 11:06:55,962 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 11:06:55,968 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 11:07:00,143 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:07:00] "POST /upload HTTP/1.1" 200 -
+2025-02-28 11:07:01,534 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:07:01] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 11:07:01,544 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:07:01] "GET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1" 200 -
+2025-02-28 11:07:25,034 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 11:07:25,086 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 11:07:25,472 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 11:07:25,477 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 11:07:32,713 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:07:32] "POST /upload HTTP/1.1" 200 -
+2025-02-28 11:07:33,974 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:07:33] "[32mGET /sales?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1[0m" 308 -
+2025-02-28 11:07:33,983 [INFO] werkzeug: 127.0.0.1 - - [28/Feb/2025 11:07:33] "GET /sales/?start_date=2024-01-01&end_date=2024-02-01&region=USA&page=3&limit=20 HTTP/1.1" 200 -
+2025-02-28 11:07:54,504 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 11:07:54,576 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 11:07:54,944 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 11:07:54,952 [INFO] werkzeug:  * Debugger PIN: 865-753-707
+2025-02-28 11:08:29,149 [INFO] werkzeug:  * Detected change in '/Users/mac/Public/Coding/Interview/my_flask_project/app.py', reloading
+2025-02-28 11:08:29,202 [INFO] werkzeug:  * Restarting with stat
+2025-02-28 11:08:29,576 [WARNING] werkzeug:  * Debugger is active!
+2025-02-28 11:08:29,582 [INFO] werkzeug:  * Debugger PIN: 865-753-707
